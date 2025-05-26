@@ -78,7 +78,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/godfreydekew/godfreydekew" width="360px"/>
+<img align="right" alt="GIF" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
