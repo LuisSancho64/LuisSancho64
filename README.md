@@ -2,9 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Luis+Sancho....;Nice+to+meet+you!&center=true&size=30&color=B399D4">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+My+Profile....;Nice+to+meet+you!&center=true&size=30&color=B399D4">
   </a>
 </h1>
+
+<!-- Recuadro de ancho completo para imagen/GIF -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <!-- Reemplaza esto con tu imagen/GIF -->
+      <img src="images/fondologo.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/luis-sancho-b42323368/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> <span style="color:#B399D4">LinkedIn</span></a></code>
