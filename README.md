@@ -82,19 +82,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently working on **integrated-medical-system**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LuisSancho64?tab=repositories)
+- 🎨 &nbsp; Using Bootstrap, Oracle, and Wordpress, I designed my city's municipal website ([Ambato](https://ambato.gob.ec/)). 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/luis-sancho-b42323368/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I have free time, I produce all kinds of music and DJ.. Checkout my [YouTube]([https://www.goodreads.com/rahul-jha98](https://www.youtube.com/@djbucle4728)) to see my content.
+- 📚 &nbsp; When I have free time, I produce all kinds of music and DJ.. Checkout my [YouTube](https://www.youtube.com/@djbucle4728) to see my content.
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Most Used Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
